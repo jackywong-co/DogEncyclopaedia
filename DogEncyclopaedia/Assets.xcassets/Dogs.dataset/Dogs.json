@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "dog-name-en": "Pekingese",
+        "dog-name-cn": "北京犬",
+        "description": "The Pekingese (also spelled Pekinese) is a breed of toy dog, originating in China. The breed was favored by royalty of the Chinese Imperial court as both a lap dog and companion dog, and its name refers to the city of Peking (Beijing) where the Forbidden City is located. The breed has several characteristics and health issues related to its unique appearance. Because of its desirable characteristics, the Pekingese has been part of the development of designer crossbreeds, such as the Peekapoo (crossed with a poodle) and Peke-a-tese (crossed with a Maltese)."
+    },
+    {
+        "id": 2,
+        "dog-name-en": "Pointer",
+        "dog-name-cn": "指標犬",
+        "description": "developed in England. Pointers are used to find game for hunters, and are considered by gundog enthusiasts to be one of the finest breeds of its type; however, unlike most other pointing breeds, its purpose is to point, not retrieve game. The popular belief is that the Pointer descends from the Old Spanish Pointer that was brought to England from Spain with returning soldiers at the beginning of the 18th century. Once in England, they were crossed with local dog breeds to improve the breed's hunting abilities."
+    },
+    {
+        "id": 3,
+        "dog-name-en": "Akita",
+        "dog-name-cn": "秋田犬",
+        "description": "The Akita is a large breed of dog originating from the mountainous regions of northern Japan. The two separate varieties of Akita are a Japanese strain, commonly called Akita Inu (inu means dog in Japanese) or Japanese Akita, and an American strain, known as the Akita or American Akita. The Japanese strain occurs in a narrow palette of colors, with all other colors considered atypical of the breed, while the American strain comes in all dog colors. The Akita has a short double coat similar to that of many other northern spitz breeds such as the Siberian Husky, but long-coated dogs can also be found in many litters due to a recessive gene.The Akita is a powerful, independent, and dominant breed, commonly aloof with strangers, but affectionate with family members. As a breed, Akitas are generally hardy."
+    },
+    {
+        "id": 4,
+        "dog-name-en": "Portuguese Water Dog",
+        "dog-name-cn": "葡萄牙水狗",
+        "description": "The Portuguese Water Dog originated from the Algarve region of Portugal. From there the breed expanded to all around Portugal's coast, where they were taught to herd fish into fishermen's nets, retrieve lost tackle or broken nets, and act as couriers from ship to ship, or ship to shore. Portuguese Water Dogs rode in fishing trawlers as they worked their way from the Atlantic waters of Portugal to the waters off the coast of Iceland fishing for cod. The Portuguese Water Dog is a fairly rare breed; only 36 Portuguese Water Dogs were entered for Britain's Crufts competition in 2013. Though some breeders claim they are a hypoallergenic dog breed, there is no scientific evidence to support the claim that hypoallergenic dog breeds exist. Their non-shedding qualities have made them more popular in recent years. The Portuguese Water Dog has recently gained more fame by being the chosen breed of US President Barack Obama, who had two of them, Bo and Sunny. The Obama family chose Sunny for the breed's comparatively hypoallergenic nature, while Bo was given to them by Senator Ted Kennedy."
+    },
+    {
+        "id": 5,
+        "dog-name-en": "Saint Bernard",
+        "dog-name-cn": "聖伯納犬",
+        "description": "The St. Bernard is recognized internationally today as one of the molosser breeds.It is a giant dog. The coat can be either smooth or rough; the smooth coat being close and flat, while the rough is dense, flat, and more profuse around the neck and legs. The colour is typically a red shade with white, or a mahogany brindle with white. Black shading is usually found on the face and ears. The tail is long and heavy, hanging high. The eyes are usually brown, but sometimes can be icy blue, and should have naturally tight lids, with haws only slightly visible."
+    },
+    {
+        "id": 6,
+        "dog-name-en": "Silky Terrier",
+        "dog-name-cn": "澳洲絲毛㹴",
+        "description": "The Australian Silky Terrier or simply Silky Terrier (depending on the breed registry) is a small breed of dog of the terrier dog type. The breed was developed in Australia, although the ancestral types and breeds were from Great Britain. It is closely related to the Australian Terrier and the Yorkshire Terrier. The breed is called the Silky Terrier in North America, but is called the Australian Silky Terrier in its country of origin and in the rest of the world."
+    },
+    {
+        "id": 7,
+        "dog-name-en": "Chihuahua",
+        "dog-name-cn": "芝娃娃",
+        "description": "The Chihuahua is one of the smallest breeds of dog, and is named after the Mexican state of Chihuahua. Chihuahuas remained a rarity until the early 20th century, and the American Kennel Club did not register a Chihuahua until 1904. In a 1520 letter, Hernan Cortés wrote that the Aztecs raised and sold the little dogs as food. Colonial records refer to small, nearly hairless dogs at the beginning of the 19th century, one of which claims 16th-century conquistadores found them plentiful in the region later known as Chihuahua."
+    },
+    {
+        "id": 8,
+        "dog-name-en": "Dachshund",
+        "dog-name-cn": "臘腸犬",
+        "description": "The dachshund, also known as the wiener dog, badger dog, and sausage dog, is a short-legged, long-bodied, hound-type dog breed. They may be smooth-haired, wire-haired, or long-haired. The standard-sized dachshund was developed to scent, chase, and flush out badgers and other burrow-dwelling animals. The miniature dachshund was bred to hunt small animals such as rabbits. According to the American Kennel Club, the dachshund was ranked 12th in popularity among dog breeds in the United States in 2018."
+    },
+    {
+        "id": 9,
+        "dog-name-en": "Tibetan Mastiff",
+        "dog-name-cn": "藏獒",
+        "description": "The Tibetan mastiff is a large size Tibetan dog breed. Its double coat is medium to long, subject to climate, and found in a wide variety of colors, including solid black, black and tan, various shades of red (from pale gold to deep red) and bluish-gray (dilute black), and sometimes with white markings around neck, chest and legs. This dog can run up to a speed of 20mph over short distances (32kph)."
+    },
+    {
+        "id": 10,
+        "dog-name-en": "German Shepherd",
+        "dog-name-cn": "德國牧羊犬",
+        "description": "The German Shepherd Dog, also known as the Alsatian, is a German breed of working dog of medium to large size. The breed was developed by Max von Stephanitz using various traditional German herding dogs from 1899. It was originally bred as a herding dog, for herding sheep. It has since been used in many other types of work, including disability assistance, search-and-rescue, police work and warfare. It is commonly kept as a companion dog, and according to the Fédération Cynologique Internationale had the second-highest number of annual registrations in 2013."
+    },
+    {
+        "id": 11,
+        "dog-name-en": "Golden Retriever",
+        "dog-name-cn": "金毛尋回犬",
+        "description": "The Golden Retriever is a British breed of retriever dog of medium size. It is characterised by a gentle and affectionate nature and a striking golden coat. It is commonly kept as a pet and is among the most frequently registered breeds in several Western countries. It is a frequent competitor in dog shows and obedience trials; it is also used as a gundog, and may be trained for use as a guide dog. The breed was created by Sir Dudley Marjoribanks at his Scottish estate Guisachan in the late nineteenth century. He cross-bred Flat-coated Retrievers with Tweed Water Spaniels, with some further infusions of Red Setter, Labrador Retriever and Bloodhound. The breed was recognised by the Kennel Club in 1913, and during the interwar period spread to many parts of the world."
+    },
+    {
+        "id": 12,
+        "dog-name-en": "Labrador Retriever",
+        "dog-name-cn": "拉布拉多尋回犬",
+        "description": "The Labrador Retriever or Labrador is a British breed of retriever gun dog. It was developed in the United Kingdom from fishing dogs imported from the colony of Newfoundland (now a province of Canada), and was named after the Labrador region of that colony. It is among the most commonly kept dogs in several countries, particularly in the Western world. The Labrador is loyal, obedient and playful. It was bred as a sporting and hunting dog, but is widely kept as a companion dog. It may also be trained as a guide or assistance dog, or for rescue or therapy work."
+    },
+    {
+        "id": 13,
+        "dog-name-en": "Smooth Fox Terrier",
+        "dog-name-cn": "短毛獵狐㹴",
+        "description": "The Smooth Fox Terrier is a breed of dog, one of many terrier breeds. It was the first breed in the fox terrier family to be given official recognition by The Kennel Club (circa 1875; breed standard 1876). It is well known, and although not a widely popular breed today outside hunting and show circles, it is extremely significant due to the large number of terriers believed descended from the breed."
+    },
+    {
+        "id": 14,
+        "dog-name-en": "Welsh Springer Spaniel",
+        "dog-name-cn": "威爾斯激飛獵犬",
+        "description": "The Welsh Springer Spaniel (Cymraeg: Llamgi Cymru) is a breed of dog and a member of the spaniel family. Thought to be comparable to the old Land Spaniel, they are similar to the English Springer Spaniel and historically have been referred to as both the Welsh Spaniel and the Welsh Cocker Spaniel. They were relatively unknown until a succession of victories in dog trials by the breed increased its popularity. Following recognition by The Kennel Club in 1902, the breed gained the modern name of Welsh Springer Spaniel. The breed's coat only comes in a single colour combination of white with red markings, usually in a piebald pattern. Loyal and affectionate, they can become very attached to family members and are wary of strangers. Health conditions are limited to those common among many breeds of dog, although they are affected more than average by hip dysplasia and some eye conditions. They are a working dog, bred for hunting, and while not as rare as some varieties of spaniel, they are rarer than the more widely known English Springer Spaniel with which they are sometimes confused."
+    },
+    {
+        "id": 15,
+        "dog-name-en": "Poodle",
+        "dog-name-cn": "貴婦犬",
+        "description": "The Poodle, called the Pudel in German and the Caniche in French, is a breed of water dog. The breed is divided into four varieties based on size, the Standard Poodle, Medium Poodle, Miniature Poodle and Toy Poodle, although the Medium Poodle variety is not universally recognised. The Poodle most likely originated in Germany, although it is also claimed to be from France. The Standard Poodle was originally used by wildfowl hunters to retrieve game from water. The smaller varieties of the breed were bred from the original in France where they were once commonly used as circus performers, but have become popular companion dogs."
+    },
+    {
+        "id": 16,
+        "dog-name-en": "Schnauzer",
+        "dog-name-cn": "史納莎",
+        "description": "A Schnauzer is a dog breed type that originated in Germany from the 14th to 16th centuries.The term comes from the German word for \"snout\" and means colloquially \"moustache\",or \"whiskered snout\",because of the dog's distinctively bearded snout. Initially it was called Wire-Haired Pinscher, while Schnauzer was adopted in 1879."
+    },
+    {
+        "id": 17,
+        "dog-name-en": "Bichon Frise",
+        "dog-name-cn": "比熊犬",
+        "description": "A Bichon Frise is a small breed of dog of the bichon type. Appearance is similar to Maltese. They rarely shed their hair naturally, so the hair needs to be groomed. The color is generally white."
+    },
+    {
+        "id": 18,
+        "dog-name-en": "Dobermann",
+        "dog-name-cn": "杜賓犬",
+        "description": "The Dobermann, or Doberman Pinscher in the United States and Canada, is a medium-large breed of domestic dog that was originally developed around 1890 by Louis Dobermann, a tax collector from Germany.The Dobermann has a long muzzle. It stands on its pads and is not usually heavy-footed. Ideally, they have an even and graceful gait. Traditionally, the ears are cropped and posted and the tail is docked. However, in some countries, these procedures are now illegal and it is often considered cruel and unnecessary. Dobermans have markings on the chest, paws/legs, muzzle, above the eyes, and underneath the tail. Dobermanns are known to be intelligent, alert, and tenaciously loyal companions and guard dogs.Personality varies a great deal between each individual but, if taken care of and properly trained, they are generally considered to be loving and devoted companions. The Dobermann is driven, strong, and sometimes stubborn. With a consistent approach, they can be easy to train and will learn very quickly."
+    },
+    {
+        "id": 19,
+        "dog-name-en": "Pomeranian",
+        "dog-name-cn": "松鼠狗",
+        "description": "The Pomeranian (often known as a Pom) is a breed of dog of the Spitz type that is named for the Pomerania region in north-west Poland and north-east Germany in Central Europe. Classed as a toy dog breed because of its small size, the Pomeranian is descended from larger Spitz-type dogs, specifically the German Spitz. It has been determined by the Fédération Cynologique Internationale to be part of the German Spitz breed; and in many countries, they are known as the Zwergspitz (\"Dwarf Spitz\")."
+    },
+    {
+        "id": 20,
+        "dog-name-en": "Great Dane",
+        "dog-name-cn": "大丹犬",
+        "description": "The Great Dane or German Mastiff is a historic breed of large sighthound-mastiff dog from Germany. The Great Dane descends from German hunting dogs from the Middle Ages, and is one of the largest breeds in the world."
+    }
+]
